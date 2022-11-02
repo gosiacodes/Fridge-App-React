@@ -1,0 +1,9 @@
+@import './App.css';
+@import '../components/header/_header.css';
+@import '../components/footer/_footer.css';
+@import '../components/productForm/_productForm.css';
+@import '../components/filterData/_filterData.css';
+@import '../components/renderData/_renderData.css';
+
+
+
