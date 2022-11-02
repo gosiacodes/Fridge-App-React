@@ -2,7 +2,6 @@ const RenderData = (props) => {
   // Returning products in fridge according to filter and showing them in DOM via props-list
   // Showing fridge-container only if list of products exists
   return props.filteredList.length > 0 ? (
-    // <div className="column">
     <div className="fridge-container ">
       <h2>Fridge</h2>
       <ul>
@@ -18,7 +17,7 @@ const RenderData = (props) => {
         })}
       </ul>
     </div>
-  ) : // </div>
+  ) : 
   null;
 };
 
