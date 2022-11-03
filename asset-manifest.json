@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Fridge-App-React/static/css/main.60eab8fa.css",
+    "main.js": "/Fridge-App-React/static/js/main.f3a37b00.js",
+    "index.html": "/Fridge-App-React/index.html",
+    "main.60eab8fa.css.map": "/Fridge-App-React/static/css/main.60eab8fa.css.map",
+    "main.f3a37b00.js.map": "/Fridge-App-React/static/js/main.f3a37b00.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60eab8fa.css",
+    "static/js/main.f3a37b00.js"
+  ]
+}
