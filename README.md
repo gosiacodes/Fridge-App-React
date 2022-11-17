@@ -1,3 +1,25 @@
+# :sparkles: Fridge App React :sparkles:
+
+Fridge App made with React - school project at JavaScript3 course (2022)
+
+https://margareta75.github.io/Fridge-App-React/
+
+
+## :pushpin: _How does the application work?_
+
+Fridge application made with React.js.
+
+Training: 
+
+• React - class components, stateless function components, state / hooks, props, events, JSX
+
+You can "put" product to fridge, by setting name, category, amount and expire date in a form.
+
+Product categories saves in a list and you can filter products by category.
+
+Only a unique category name adds to category list.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
