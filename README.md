@@ -2,7 +2,7 @@
 
 Fridge App made with React - school project at JavaScript3 course (2022)
 
-https://margareta75.github.io/Fridge-App-React/
+https://gosiacodes.github.io/Fridge-App-React/
 
 
 ## :pushpin: _How does the application work?_
