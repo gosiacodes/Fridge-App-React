@@ -17,10 +17,16 @@ You can "put" product to fridge, by setting name, category, amount and expire da
 
 Product categories saves in a list and you can filter products by category.
 
-Only a unique category name adds to category list.
+Only a unique category name adds to the category list.
+
+## :pushpin: _GUI examples_
+### Products added to fridge
+![Fridge App](public/images/Fridge_App_1.png)
+### Products filtered by category (fruit)
+![Fridge App](public/images/Fridge_App_2.png)
 
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
